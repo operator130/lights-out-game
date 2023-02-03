@@ -1,5 +1,5 @@
 # Lights Out Game
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is part of The Modern React Bootcamp by Colt Steele.
 
 Inspired by the original game released by Tiger Electronics in 1995, Lights Out is a puzzle game where the object is to turn off all the lights. When the game starts, a random number of these lights are turned on. To win, all lights must be turned off. Clicking on a panel will switch the status of itself, as well as all other adjacent panels.
 
